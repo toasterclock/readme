@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toasterclock&label=Profile%20views&color=0e75b6&style=flat" alt="toasterclock" /> </p>
 
-- 🔭 I’m currently working on [StudyBot-Discord](https://github.com/toasterclock/StudyBot-Discord)
+- 🔭 I’m currently working on [ProductivityBot for Discord](https://github.com/toasterclock/StudyBot-Discord)
 
 - 🌱 I’m currently learning **Python**
 
