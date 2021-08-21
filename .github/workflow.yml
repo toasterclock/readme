@@ -1,0 +1,19 @@
+- name: WakaTime Stats Charts Generator
+  # You may pin to the exact commit or the version.
+  # uses: divykj/wakatime-charts@c8248b0e291884f3dc8e2edb0c36bb1518ba8d2d
+  uses: divykj/wakatime-charts@v0.3.1
+  with:
+    # Your WakaTime API Key
+    WAKATIME_API_KEY: 
+    # GitHub access token with Repo
+    GITHUB_TOKEN: # default is ${{ github.token }}
+    # Branch that needs to updated
+    BRANCH_NAME: # optional, default is master
+    # Commit message on each updation
+    COMMIT_MESSAGE: # optional, default is 📊
+    # Name of the folder in which generated charts will be shown
+    IMAGES_FOLDER: # optional, default is images
+    # User email for git
+    GIT_USER_EMAIL: # optional, default is 41898282+github-actions[bot]@users.noreply.github.com
+    # User name for git
+    GIT_USER_NAME: # optional, default is GitHub Actions
