@@ -9,6 +9,12 @@
 ![toasterclock's GitHub Stats](https://github-readme-stats.vercel.app/api?username=toasterclock&show_icons=true&theme=radical)
 
 <!--START_SECTION:waka-->
+```text
+Other        1 hr 4 mins     █████████████░░░░░░░░░░░░   51.62 % 
+JavaScript   57 mins         ███████████▓░░░░░░░░░░░░░   46.37 % 
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+```
 <!--END_SECTION:waka-->
   
 <h3 align="left">Languages and Tools:</h3>
