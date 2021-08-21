@@ -1,5 +1,5 @@
-- name: WakaTime Stat Update Action
-  uses: avinal/Profile-Readme-WakaTime@v2.5
+name: WakaTime Stat Update Action
+uses: avinal/Profile-Readme-WakaTime@v2.5
 
 on:
   schedule:
