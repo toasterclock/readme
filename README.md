@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/toastclock" target="blank"><img src="https://img.shields.io/twitter/follow/toastclock?logo=twitter&style=for-the-badge" alt="toastclock" /></a> </p>
 
-- 🔭 I’m currently working on making a simple [website](yisiansim.works)!
+- 🔭 I’m currently working on making a simple [website](https://yisiansim.works)!
 
 - 🌱 I’m currently learning **Kotlin, Jetpack Compose, Python, HTML**
 
-- 👨‍💻 All of my projects are available at [yisiansim.works](yisiansim.works)
+- 👨‍💻 All of my projects are available at [yisiansim.works](https://yisiansim.works)
 
 - 📫 How to reach me **[@toastclock](https://twitter.com/toastclock) on Twitter**
 
